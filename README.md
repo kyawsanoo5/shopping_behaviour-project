@@ -94,6 +94,15 @@ o	You can also test the saved .pkl model for real-time predictions.
 5.	Modify and Explore:
 Feel free to experiment with different hyperparameters or add more features to the dataset to see how it affects the model's Recall and Accuracy.
 
+### 🛠️ Quick Access & Interactive Run
+
+| Service | Access Link |
+| :--- | :--- |
+| **View Notebook** | [📂 Direct Link to Notebook](./Shopping_Behavior_End-to-End_Data_Analysis_MachineLearning_Project.ipynb) |
+| **Interactive Run** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kyawsanoo5/Shopping_Behavior_End-to-End_Data_Analysis_MachineLearning_Project/blob/main/Shopping_Behavior_End-to-End_Data_Analysis_MachineLearning_Project.ipynb) |
+| **Live Environment** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kyawsanoo5/Shopping_Behavior_End-to-End_Data_Analysis_MachineLearning_Project /HEAD) |
+| **Static View** | [🌐 Open in nbviewer](https://nbviewer.org/github/kyawsanoo5/Shopping_Behavior_End-to-End_Data_Analysis_MachineLearning_Project /blob/main/Shopping_Behavior_End-to-End_Data_Analysis_MachineLearning_Project.ipynb) |
+
 ## 👤 Author - Kyawsanoo
 
 This project is part of my portfolio, showcasing my expertise in **Python, Pandas, NumPy, Scikit-learn,** and **Statistical Modeling**—core skills essential for Data Analyst or Data Science Intern roles.

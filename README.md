@@ -74,6 +74,39 @@ This project analyzes modern shopping behavior using Exploratory Data Analysis (
 ### **Conclusion:** 
 Clothing remains the lifeblood of retail, while accessories present untapped potential. Middle aged men are the strongest buyer demographic, but subscription and female engagement require urgent attention. By aligning marketing, inventory, and loyalty programs with these insights, businesses can strengthen customer retention and drive sustainable growth.
 
+## 🚀 How to Use
+
+To explore or reproduce this analysis, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone [https://github.com/kyawsanoo5/git-journey.git](https://github.com/kyawsanoo5/git-journey.git)
+2.	Prepare Environment:
+Ensure you have Python installed. You can install the necessary libraries using:
+Bash
+pip install pandas numpy scikit-learn matplotlib seaborn
+3.	Explore the Analysis:
+o	Open the ShoppingBehavior.ipynb file in Jupyter Notebook or Google Colab.
+o	The dataset is located in the data/ folder and is automatically loaded within the notebook.
+4.	Run the Pipeline:
+o	Execute the cells sequentially to see the EDA, Statistical Analysis, and Model Training process.
+o	You can also test the saved .pkl model for real-time predictions.
+5.	Modify and Explore:
+Feel free to experiment with different hyperparameters or add more features to the dataset to see how it affects the model's Recall and Accuracy.
+
+## 👤 Author - Kyawsanoo
+
+This project is part of my portfolio, showcasing my expertise in **Python, Pandas, NumPy, Scikit-learn,** and **Statistical Modeling**—core skills essential for Data Analyst or Data Science Intern roles.
+
+By utilizing this model, a retail business can strategically focus marketing efforts on high-probability leads, significantly reducing customer acquisition costs by filtering out non-likely subscribers.
+
+### 🤝 Connect with Me
+I am passionate about SQL, Data Analysis, and Data Science. Let's connect and discuss more about data-related topics!
+
+* **LinkedIn**: [Kyawsanoo - Connect with me professionally](https://www.linkedin.com/in/kyaw-sanoo-425009396)
+
+Thank you for your support, and I look forward to connecting with you!
+
 ##### **Loading Dependencies**
 ```python
 import numpy as np

@@ -49,8 +49,7 @@ This project analyzes modern shopping behavior using Exploratory Data Analysis (
 5.	**Subscription Strategy:** Investigate female subscription absence — redesign loyalty programs to attract female customers.
 
 ### **Project Architecture (Workflow Diagram)**
-**
-[Raw Data] --> [Data Cleaning]
+**[Raw Data] --> [Data Cleaning]
  --> [EDA & Statistical Testing]
  --> [Feature Engineering]
  --> [Encoding & Scaling]

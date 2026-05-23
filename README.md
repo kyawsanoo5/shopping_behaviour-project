@@ -376,3 +376,7 @@ The model predicts these 2 new customers as "No" (those who cannot subscribe). W
 2.	**The Findings:** In the data, Chi-Square and Feature Importance found that using a promo code was the key to subscription.
 3.	**The Best Model:** Comparing the four models (RF, NB, SVM, KNN), Naive Bayes was the best with an accuracy of 83.9% and a recall of 99%, which captured all subscribers without exception.
 4.	**Final Value:** Using the pipeline we have now built, we can predict the behavior of new customers, which will help us reduce marketing costs and implement targeted promotions more effectively.
+
+## **Author - Kyawsanoo5**
+"Our analysis shows a strong correlation between promotional incentives and subscriptions. Customers who utilized a promo code were significantly more likely to subscribe. Conversely, subscriptions were nearly non-existent among customers without a promo code. This suggests that the company's current subscription growth is highly dependent on discount strategies."
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/kyaw-sanoo-425009396)
